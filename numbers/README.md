@@ -1,8 +1,8 @@
-Methods in this exercise
+# Methods in this exercise
 
-.split("")
+## .split("")
 - Splits string at character in quotes into an array of strings. The array will not contain the character in quotes.
-.reverse()
+## .reverse()
 - reverses the order of an array
-.join("")
+## .join("")
 - joins string together with charater in quotes. 
